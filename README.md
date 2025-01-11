@@ -13,3 +13,8 @@ See
 - Sample demo: https://github.com/EloiStree/2025_01_11_NtpIntPiQuest3Game
 
 
+Old code similar to this one: 
+- Bip On Tune:
+  - https://gitlab.com/eloistree/2018_05_16_BipOnTune
+  - https://gitlab.com/eloistree/2019_11_11_BipOnTune 
+
