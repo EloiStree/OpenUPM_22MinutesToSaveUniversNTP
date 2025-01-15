@@ -2,7 +2,7 @@
 {                                                                                
   "name": "be.elab.ntpsynctime",                              
   "displayName": "22 Minutes To Save univers",                        
-  "version": "0.0.1",                         
+  "version": "2025.1.16",                         
   "unity": "2018.1",                             
   "unityRelease": "",                             
   "description": "Allows to make fake multiplayer using offset ntp time to synchronised actions happening int the game.",                         
